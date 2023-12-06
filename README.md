@@ -36,19 +36,19 @@ SSAFY 9기 2학기 공통 프로젝트
     - 각자 나눈 역할에 맞는 브랜치를 나누고 각 커밋을 지라의 이슈와 연결하며 프로젝트를 진행했습니다.
 <br/><br/>
 ## ERD
-![image](https://github.com/ssh5212/moving248/assets/133843645/3107a0df-e487-4721-be08-ac91cb98b9c4)
+![image](https://github.com/YeonySon/Moving248/assets/116241870/7bf6190f-97f2-4c22-96a5-c935b608c699)
 <br/><br/>
 ## 요구사항 명세서
-![image](https://github.com/ssh5212/moving248/assets/133843645/64608f99-77d8-4b46-a56d-ad268d5a081c)
+![image](https://github.com/YeonySon/Moving248/assets/116241870/2e1a0a70-69db-4f3e-98f7-ecd6abbe82eb)
 <br/><br/>
 ## 기능 명세서
-![image](https://github.com/ssh5212/moving248/assets/133843645/578df68f-4e27-4fec-a8f1-c8a6ccc5185b)
+![image](https://github.com/YeonySon/Moving248/assets/116241870/e3fe9cc7-db4d-4ae6-a942-025a260df2f1)
 <br/><br/>
 ## API 명세서
-![image](https://github.com/ssh5212/moving248/assets/133843645/a9079552-bc3b-4360-af40-9293ed9494dc)
+![image](https://github.com/YeonySon/Moving248/assets/116241870/d51a0320-11af-44d9-a533-c73f4774f898)
 <br/><br/>
 ## 목업
-![image](https://github.com/ssh5212/moving248/assets/133843645/132f73c1-007d-4c15-bea3-9716de7d4136)
+![image](https://github.com/YeonySon/Moving248/assets/116241870/dc151a15-e828-4100-846e-add57cc95591)
 <br/><br/>
 ## 서비스 시연 영상
 https://www.youtube.com/watch?v=oEacniI6hjQ
